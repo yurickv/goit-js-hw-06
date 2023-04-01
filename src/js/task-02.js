@@ -7,7 +7,7 @@ const ingredients = [
   'Condiments',
 ];
 
-let itemList =[];
+let itemList = [];
 
 for (let i = 0; i < ingredients.length; i++) {
   
