@@ -37,4 +37,5 @@ inputEl.children[2].addEventListener('click', allClear);
 function allClear(event) {
   inputEl.children[0].value = "";
   document.querySelector('#boxes').innerHTML = "";
+  containerDiv = [];
 }
